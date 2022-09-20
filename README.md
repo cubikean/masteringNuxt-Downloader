@@ -1,11 +1,11 @@
 # masteringNuxt-Downloader
 
-Installation
+### Installation
 ```sh
 pip install url-downloader 
 ```
 
-## To get your api token 
+### To get your api token 
 ```js
 // in chrome cmd
 document.cookie()
